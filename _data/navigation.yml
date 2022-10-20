@@ -5,15 +5,13 @@ main:
   - title: "Tag"
     url: /tags/
  
- 
- docs:
+docs:
   - title: "대목차"
     children:
       - title: "Category"
         url: /categories/
       - title: "Tag"
-        url: /tags/
-    
+        url: /tags/    
     
   # - title: "Sample Posts"
   #   url: /year-archive/
