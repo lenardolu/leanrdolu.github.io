@@ -5,5 +5,3 @@ permalink: /categories/
 author_profile: true
 sidebar_main: true
 ---
-WoW
-print("hello world")
